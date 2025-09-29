@@ -88,8 +88,7 @@ All queries utilize advanced SQL techniques including:
 │   ├── bottom-sellers.png
 │   ├── insights.png
 │   └── details.png
-└── data/
-    └── global_superstore.sql
+└── Global_Superstore.xslx   
 ```
 
 ## License
