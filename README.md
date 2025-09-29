@@ -96,6 +96,3 @@ All queries utilize advanced SQL techniques including:
 
 MIT License
 
-## Contact
-
-Project Link: [https://github.com/yourusername/global-superstore-analytics](https://github.com/yourusername/global-superstore-analytics)
